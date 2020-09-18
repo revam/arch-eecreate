@@ -33,7 +33,7 @@ fi
 if not0or1 "${VERBOSE}"; then
   VERBOSE=0
 fi
-if not0or1 "${NO_ROOT}": then
+if not0or1 "${NO_ROOT}"; then
   NO_ROOT=0
 fi
 
